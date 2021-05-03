@@ -8,6 +8,7 @@ function Header( {transparent} ) {
       <div className={styles.logoContainer} >
         <h1><Link to='/'>#FixTheCountry</Link></h1>
       </div>
+      
 
       {/* <div className={styles.devCorner}>
         <a href="https://github.com/kadetXx/endsars" target='_blank' rel='noreferrer noopener'><i className='fab fa-github'></i></a>
