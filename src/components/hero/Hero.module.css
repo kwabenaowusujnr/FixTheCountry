@@ -1,0 +1,72 @@
+.hero {
+  height: 100vh;
+  width: 100%;
+  background: url('/assets/img/rinuu.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 1000px 1000px rgba(0, 0, 0, 0.747);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    height: 22rem;
+  }
+}
+
+.caption {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 100%;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.caption h2 {
+  text-align: center;
+  font-size: 4rem;
+  color: #fff;
+}
+
+.cta {
+  padding: 0.8rem 2rem;
+  font-size: 16px;
+  border-radius: 3px;
+  background: #ffffff;
+  color: black;
+}
+
+@media (max-width: 800px) {
+  .caption h2 {
+    font-size: 1.5rem;
+  }
+}
+
+.caption h2 span {
+  color: #f70000;
+}
+
+.about {
+  color: #bbb;
+  font-size: 1.2rem;
+  margin: 0;
+  position: relative;
+  top: -4rem;
+}
+
+@media (max-width: 800px) {
+  .about {
+    top: -1rem;
+    font-size: 0.9rem;
+  }
+}
+
+.about:hover {
+  text-decoration: underline;
+  color: #fff;
+}
