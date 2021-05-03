@@ -40,7 +40,7 @@ function Home() {
       <Hero />
       <div className={styles.home}>
         <section className={styles.infoSection}>
-          <img src='/assets/img/fist.jpg' className={styles.fistImage} alt='' />
+          <img src='/assets/img/ghMega.png' className={styles.fistImage} alt='' />
           <h3>
             Ways you can support the <br /> #FixTheCountry movement
           </h3>
@@ -74,10 +74,10 @@ function Home() {
               <h4>Tweet</h4>
             </a>
 
-            <Link to='/politicians' className={styles.infoBox}>
+            {/* <Link to='/politicians' className={styles.infoBox}>
               <i className='fas fa-feather-alt'></i>
               <h4>Remind Politicians</h4>
-            </Link>
+            </Link> */}
 
             {/* <p className={styles.infoBox}>
               <div className={styles.iconGroup}>
