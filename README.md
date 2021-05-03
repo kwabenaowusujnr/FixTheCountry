@@ -6,10 +6,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">#ENDSARS</h3>
+  <h3 align="center">#FixTheCountry</h3>
 
   <p align="center">
-    Let Our Voices Be Heard! #SARSMUSTEND
+    Let Our Voices Be Heard! #FixTheCountry
     <br />
     <br />
     <a href="https://endsars.vercel.app/">View Website</a>

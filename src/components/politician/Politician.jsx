@@ -20,10 +20,10 @@ function Politician({ name, state, email, phone }) {
     setDevice("unknown");
   }, []);
 
-  const subject = "#EndSARS - End SARS!";
+  const subject = "#FixTheCountry - FixTheCountry!";
 
   const message = encodeURI(
-    "Dear sir/ma, I am  a concerned citizen of your constituent, and I'll like to express my displeasure about SARS. The members of this squad who are supposed to protect us against armed robbery are killing, extorting and harassing us everyday. We are scared to move freely and we need your help. I urge you, distinguished, to use your office to protect the lives of Nigerian youths as we are the future of the Nation. We are counting on you to do the right thing. We are counting on you to help us #ENDSARS. Thanks!"
+    "Dear sir/ma, I am  a concerned citizen of your constituent, and I'll like to express my displeasure about SARS. The members of this squad who are supposed to protect us against armed robbery are killing, extorting and harassing us everyday. We are scared to move freely and we need your help. I urge you, distinguished, to use your office to protect the lives of Nigerian youths as we are the future of the Nation. We are counting on you to do the right thing. We are counting on you to help us #FixTheCountry. Thanks!"
   );
 
   return (

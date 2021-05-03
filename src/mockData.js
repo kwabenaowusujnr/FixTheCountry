@@ -1,7 +1,7 @@
 export const crimeKeywords = [
-    "Killing us",
-    "Harassing us",
-    "Torturing us",
+    "The Corruption",
+    "Galamsey",
+    "Mismanagement of public funds",
     "Extorting us",
     "Murdering us",
     "threatening us",

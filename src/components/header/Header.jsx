@@ -6,12 +6,12 @@ function Header( {transparent} ) {
   return (
     <header className={`${styles.header} ${transparent && styles.headerTransparent}` }>
       <div className={styles.logoContainer} >
-        <h1><Link to='/'>#EndSARS</Link></h1>
+        <h1><Link to='/'>#FixTheCountry</Link></h1>
       </div>
 
-      <div className={styles.devCorner}>
+      {/* <div className={styles.devCorner}>
         <a href="https://github.com/kadetXx/endsars" target='_blank' rel='noreferrer noopener'><i className='fab fa-github'></i></a>
-      </div>
+      </div> */}
     </header>
   )
 }

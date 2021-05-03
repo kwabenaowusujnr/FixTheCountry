@@ -33,10 +33,7 @@ function Home() {
     setTweet(encodeURI(fullTweet));
   };
 
-  const hashtags = `EndSARS`;
-  // const whatsappTags = `%23EndSARS %23EndPoliceBrutality`;
-
-  // const cbnSubject = "Flutterwave #EndSARS Payment Link Complaint";
+  const hashtags = `FixTheCountry`;
 
   return (
     <React.Fragment>
@@ -45,12 +42,12 @@ function Home() {
         <section className={styles.infoSection}>
           <img src='/assets/img/fist.jpg' className={styles.fistImage} alt='' />
           <h3>
-            Ways you can support the <br /> #EndSARS movement
+            Ways you can support the <br /> #FixTheCountry movement
           </h3>
 
           <div className={styles.boxesContainer}>
             <a
-              href='https://www.notion.so/b5632859ff7e4fe09d8cd73880f8aca7?v=6456a7172b9542a0b1487924766eaf7d'
+              href='https://t.co/QT0TycpFFg?amp=1'
               // href={`mailto:${`contactcbn@cbn.gov.ng`}?subject=${cbnSubject}&body=${cbnBody}`}
               target='_blank'
               rel='noreferrer noopener'
@@ -58,7 +55,7 @@ function Home() {
               onClick={() => setShowPopup(true)}
             >
               <i className='fa fa-flag'></i>
-              <h4>Join The Protests </h4>
+              <h4>Join The Movement </h4>
             </a>
 
             {/* <Link to='/complaint' className={styles.infoBox}>
@@ -122,67 +119,32 @@ function Home() {
             <ul>
               <li>
                 <a
-                  href='https://twitter.com/SavvyRinu'
+                  href='https://twitter.com/SneakerNyame_'
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  @savyrinuu_
+                  @SneakerNyame_
                 </a>
               </li>
               <li>
                 <a
-                  href='https://twitter.com/mrmacaronii'
+                  href='https://twitter.com/gyaigyimii'
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  @mrmacaronii
+                  @gyaigyimii
                 </a>
               </li>
               <li>
                 <a
-                  href='https://twitter.com/AishaYesufu'
+                  href='https://twitter.com/efiaodo1'
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  @AishaYesufu
+                  @efiaodo1
                 </a>
               </li>
-              <li>
-                <a
-                  href='https://twitter.com/fkabudu'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @fkabudu
-                </a>
-              </li>
-              <li>
-                <a
-                  href='https://twitter.com/kikimordi'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @kikimordi
-                </a>
-              </li>
-              <li>
-                <a
-                  href='https://twitter.com/Moechievous'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @Moechievous
-                </a>
-              </li>
-              <li>
-                <a
-                  href='https://twitter.com/falzthebahdguy'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @falzthebadguy
-                </a>
-              </li>
+           
             </ul>
           </section>
 
@@ -194,31 +156,21 @@ function Home() {
             <ul>
               <li>
                 <a
-                  href='https://twitter.com/kadetXx'
+                  href='https://twitter.com/kwabenacross'
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  Twitter - @kadetXx
+                  Twitter - @kwabenacross
                 </a>
               </li>
 
               <li>
                 <a
-                  href='https://www.linkedin.com/in/collins-enebeli-online/'
+                  href='https://www.linkedin.com/in/isaac-owusu-amoako-jnr-00862091/'
                   target='_blank'
                   rel='noreferrer noopener'
                 >
                   LinkedIN
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://github.com/kadetXx'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  Github
                 </a>
               </li>
             </ul>
@@ -229,15 +181,7 @@ function Home() {
               <i className='fas fa-laptop-code'></i> Contributors
             </h2>
             <ul className={styles.twoColumn}>
-              {/* <li>
-                <a
-                  href='https://twitter.com/kadetXx'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @kadetXx
-                </a>
-              </li> */}
+              {}
 
               <li>
                 <a
@@ -245,99 +189,10 @@ function Home() {
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  @Niles_jamex
+                  @Niles_jamex (Original Open source project)
                 </a>
               </li>
 
-              <li>
-                <a
-                  href='https://twitter.com/eniayomi_'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @eniayomi_
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/bhalow_meenat'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @bhalow_meenat
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/ridwanabiola2'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @ridwanabiola2
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/EvidenceISO'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @EvidenceISO
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/iamthepatoo'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @iamthepatoo
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/walebant'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @walebant
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/IamCradoe'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @IamCradoe
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/Mercester_'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @Mercester_
-                </a>
-              </li>
-
-              <li>
-                <a
-                  href='https://twitter.com/a_dayomoshood'
-                  target='_blank'
-                  rel='noreferrer noopener'
-                >
-                  @a_dayomoshood
-                </a>
-              </li>
             </ul>
           </section>
         </footer>
