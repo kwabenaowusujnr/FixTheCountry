@@ -21,8 +21,5 @@ export default [
   "@NAkufoAddo",
 
   "@AlanKyerematen",
-  // "@Starr1035Fm",
-  // "@CitiTVGH",
-  // "@peacefmonline",
   
 ];
