@@ -144,7 +144,24 @@ function Home() {
                   @efiaodo1
                 </a>
               </li>
-           
+              <li>
+                <a
+                  href='https://twitter.com/lydiaforson'
+                  target='_blank'
+                  rel='noreferrer noopener'
+                >
+                  @lydiaforson
+                </a>
+              </li>
+              <li>
+                <a
+                  href='https://twitter.com/yvonnenelsongh'
+                  target='_blank'
+                  rel='noreferrer noopener'
+                >
+                  @yvonnenelsongh
+                </a>
+              </li>
             </ul>
           </section>
 

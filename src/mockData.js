@@ -1,6 +1,15 @@
+// export const crimeKeywords = [
+//     "The Corruption",
+//     "Galamsey",
+//     "Mismanagement of public funds",
+//     "Promise and Fail",
+// ]
+
 export const crimeKeywords = [
-    "The Corruption",
-    "Galamsey",
-    "Mismanagement of public funds",
-    "Promise and Fail",
+    "Good roads",
+    "Quality education",
+    "Good healthcare",
+    "Jobs with good salaries",
+    "Affordable rents",
+    "Good  drinking water",
 ]
