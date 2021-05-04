@@ -8,7 +8,7 @@ export default [
   },
   {
     message:
-      "We dey tell the people we elected to FixTheCountry to actually fix the country but you say we should fix ourselves first. Does that sound intelligent to you? Tell me does it?",
+      "We dey tell the people we elected to FixTheCountryNow to actually fix the country but you say we should fix ourselves first. Does that sound intelligent to you? Tell me does it?",
   },
   {
     message: `African Leaders NEEDS to do BETTER!`,

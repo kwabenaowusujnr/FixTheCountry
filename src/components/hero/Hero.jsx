@@ -12,7 +12,7 @@ function Hero( ) {
       <div className={styles.caption} >
         {/* <h2> Stop <Typewriter texts={ crimeKeywords } /> */}
         <h2> We are asking for <Typewriter texts={ crimeKeywords } />
-          <br/> Let Our Voices be Heard! <br/> <span>#FixTheCountry!</span> </h2>
+          <br/> Let Our Voices be Heard! <br/> <span>#FixTheCountryNow!</span> </h2>
         {/* <a className={styles.about} href="https://en.wikipedia.org/wiki/End_SARS" rel="noopener noreferrer" target="_blank">
           About This Movement
         </a> */}

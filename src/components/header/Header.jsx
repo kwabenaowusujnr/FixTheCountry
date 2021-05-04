@@ -6,7 +6,7 @@ function Header( {transparent} ) {
   return (
     <header className={`${styles.header} ${transparent && styles.headerTransparent}` }>
       <div className={styles.logoContainer} >
-        <h1><Link to='/'>#FixTheCountry</Link></h1>
+        <h1><Link to='/'>#FixTheCountryNow</Link></h1>
       </div>
       
 

@@ -33,7 +33,7 @@ function Home() {
     setTweet(encodeURI(fullTweet));
   };
 
-  const hashtags = `FixTheCountry`;
+  const hashtags = `FixTheCountryNow`;
 
   return (
     <React.Fragment>
@@ -42,7 +42,7 @@ function Home() {
         <section className={styles.infoSection}>
           <img src='/assets/img/ghMega.png' className={styles.fistImage} alt='' />
           <h3>
-            Ways you can support the <br /> #FixTheCountry movement
+            Ways you can support the <br /> #FixTheCountryNow movement
           </h3>
 
           <div className={styles.boxesContainer}>

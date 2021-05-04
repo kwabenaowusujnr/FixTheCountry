@@ -10,7 +10,7 @@ import "../../shared/gtag";
 function Complaint() {
   const [mail, setMail] = useState();
 
-  const subject = `Complaint On Amb. Hussaini Coomasie's #FixTheCountry Comments`;
+  const subject = `Complaint On Amb. Hussaini Coomasie's #FixTheCountryNow Comments`;
 
   const randomiser = (max) => {
     return Math.floor(Math.random() * (max - 0 + 1)) + 0;
@@ -43,7 +43,7 @@ function Complaint() {
               This video here
             </a> {" "}
             was posted on twitter and shows a man (Amb. H. Coomassie) talking
-            down on the #FixTheCountry campaign. Thanks to {" "}
+            down on the #FixTheCountryNow campaign. Thanks to {" "}
             <a
               href='https://twitter.com/chika_jones'
               target='_blank'

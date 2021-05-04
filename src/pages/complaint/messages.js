@@ -15,7 +15,7 @@ Thank you.`),
 
   encodeURI(`Dear AGGN,
 
-I would like to call your attention to an online statement released by one of your staff, Amb. Hussaini Coomasie, asking the Nigerian government to brutalize unarmed protesters demanding for justice and equity in the ongoing #FixTheCountry protest.
+I would like to call your attention to an online statement released by one of your staff, Amb. Hussaini Coomasie, asking the Nigerian government to brutalize unarmed protesters demanding for justice and equity in the ongoing #FixTheCountryNow protest.
 
 I am surprised that such a man works for your organization whose aim is to organize good governance projects in Africa and Germany. Please see the link to the video Hussaini Coomasie posted below:
 
